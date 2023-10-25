@@ -55,6 +55,7 @@ export const projectsData = [
       "EvoGym is a fictional gym that I built in order to train myself. It's a single page application with a responsive design.",
     tags: ["React", "TypeScript", "Vite", "Tailwind"],
     imageUrl: gymImg,
+    href: "https://sza-gym-react.vercel.app/",
   },
   {
     title: "Store",
@@ -70,6 +71,7 @@ export const projectsData = [
       "MySQL",
     ],
     imageUrl: ecommerceStore,
+    href: "",
   },
 ] as const;
 
