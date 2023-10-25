@@ -58,6 +58,22 @@ export const projectsData = [
     href: "https://sza-gym-react.vercel.app/",
   },
   {
+    title: "Store - Admin",
+    description:
+      "My first serious full-stack project. I created an ecommerce store with an admin dashboard in order to learn the process of full-stack development.",
+    tags: [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind",
+      "Prisma",
+      "Stripe",
+      "MySQL",
+    ],
+    imageUrl: ecommerceStore,
+    href: "https://sza-ecommerce-admin-react.vercel.app/",
+  },
+  {
     title: "Store",
     description:
       "My first serious full-stack project. I created an ecommerce store with an admin dashboard in order to learn the process of full-stack development.",
@@ -71,7 +87,7 @@ export const projectsData = [
       "MySQL",
     ],
     imageUrl: ecommerceStore,
-    href: "",
+    href: "https://sza-ecommerce-store-react.vercel.app/",
   },
 ] as const;
 
