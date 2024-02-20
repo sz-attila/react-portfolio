@@ -101,6 +101,7 @@ export default function Intro() {
         </a>
 
         <a
+          href="https://www.linkedin.com/in/attila-szalai-5669a52b5/"
           className="bg-white p-4 text-gray-700
         flex items-center gap-2 rounded-full outline-none focus:scale-[1.15]
         hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack"
